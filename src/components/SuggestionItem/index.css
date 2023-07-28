@@ -1,1 +1,19 @@
 /* Write your CSS here */
+.each-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  margin-left: 10px;
+}
+.arrow-image {
+  width: 30px;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.title {
+  color: #475569;
+}
